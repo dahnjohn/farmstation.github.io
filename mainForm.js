@@ -17,7 +17,7 @@ root.render(
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
 
-<h1>fix ticket 1</h1>
+<h1>fix bug done</h1>
 
 
-<updated>last? tix1 to. test error lng</updated>
+<updated>last? conflict possible !!! second try</updated>
