@@ -24,7 +24,18 @@ reportWebVitals();
 
 <p>fixed ticket #1</p>
 =======
+
+<p>add new line here!</p>
+
+<p>fixed ticket #1</p>
+=======
+
 <p>add new line for ticket #1</p>
 
 ffdgdgdgdgd
+
+
+
+<p>another try tix-1</p>
+=======
 
