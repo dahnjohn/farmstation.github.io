@@ -19,12 +19,12 @@ reportWebVitals();
 
 <h1>fix bug done ticket 3-3</h1>
 
-<<<<<<< HEAD
 <p>add new line here!</p>
 
 <p>fixed ticket #1</p>
-=======
 <p>add new line for ticket #1</p>
 
 ffdgdgdgdgd
->>>>>>> beda8d29b400fe87dca16848aaac114e04456eb9
+
+
+<p>another try tix-1</p>
